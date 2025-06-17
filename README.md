@@ -84,16 +84,19 @@ Properties like contrast ratios, font sizes, and spacing are key to designing ac
 Precise measurements and styles reduce guesswork in development, minimizing bugs and rework caused by design mismatches.
 
 
-# Project Roles and Responsibilities
-Role	Responsibilities
-Project Manager	Oversees timeline, coordinates team, manages deliverables
-Frontend Developers	Implements UI components, ensures responsive design
-Backend Developers	Builds APIs, manages database, implements business logic
-Designers	Creates mockups, maintains design system, ensures UX quality
-QA/Testers	Writes test cases, performs testing, reports bugs
-DevOps Engineers	Manages deployment, CI/CD pipeline, server infrastructure
-Product Owner	Defines requirements, prioritizes features, represents stakeholders
-Scrum Master	Facilitates agile processes, removes blockers, organizes meetings
+## Project Roles and Responsibilities
+
+| Role               | Responsibilities                                                   |
+|--------------------|---------------------------------------------------------------------|
+| Project Manager     | Oversees timeline, coordinates team, manages deliverables          |
+| Frontend Developers | Implements UI components, ensures responsive design                |
+| Backend Developers  | Builds APIs, manages database, implements business logic           |
+| Designers           | Creates mockups, maintains design system, ensures UX quality       |
+| QA/Testers          | Writes test cases, performs testing, reports bugs                  |
+| DevOps Engineers    | Manages deployment, CI/CD pipeline, server infrastructure          |
+| Product Owner       | Defines requirements, prioritizes features, represents stakeholders|
+| Scrum Master        | Facilitates agile processes, removes blockers, organizes meetings  |
+
 
 # UI Component Patterns
 Planned Components
